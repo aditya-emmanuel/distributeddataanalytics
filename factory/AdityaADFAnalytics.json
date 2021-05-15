@@ -1,0 +1,9 @@
+{
+	"name": "AdityaADFAnalytics",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b960ab1c-b8e8-459e-b171-f3385d6a6fa0",
+		"tenantId": "71b17966-69d5-4b17-934f-a9d330a1286c"
+	}
+}
